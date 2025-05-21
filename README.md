@@ -1,4 +1,3 @@
-# MYSQL-and-Visual-Studio-C-connection
 # MySQL과 Visual Studio C언어 연동
 
 Visual Studio 2022에서 C 언어를 사용하여 MySQL 데이터베이스와 연동하는 방법을 다룹니다.
